@@ -1,7 +1,12 @@
+## Usage
 ```bash
+git clone https://github.com/riceconfetti/imi-cli.git
+
+cd ./imi-cli
+
 npm install -g
 
-cd [PROJECT DIRECTORY]
+[GO TO PROJECT DIRECTORY]
 
 imi
 ```
