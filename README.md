@@ -1,8 +1,7 @@
-## Usage
+## Install
 ```bash
 npm install imi-cli -g
-
-[GO TO PROJECT DIRECTORY]
-
-imi
 ```
+
+## Usage
+Start interactive CLI with `imi`
